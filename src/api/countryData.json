@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1417173173,
+    "interestingFact": "India is the world's largest democracy."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "interestingFact": "The U.S. has no official language at the federal level."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest."
+  },
+  {
+    "id": 4,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 145912025,
+    "interestingFact": "Russia is the largest country in the world by area."
+  },
+  {
+    "id": 5,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125584838,
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 6,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83149300,
+    "interestingFact": "Germany is known for its beer purity law (Reinheitsgebot)."
+  },
+  {
+    "id": 7,
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "population": 216746934,
+    "interestingFact": "Nigeria has over 500 spoken languages."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 9,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25788217,
+    "interestingFact": "Australia is home to more kangaroos than people."
+  },
+  {
+    "id": 10,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67848156,
+    "interestingFact": "The Eiffel Tower can be 15 cm taller during the summer."
+  }
+]
